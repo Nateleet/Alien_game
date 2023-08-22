@@ -2,8 +2,6 @@ import pygame
 class Settings():
 
     def __init__(self):
-        self.screen_width = 1920
-        self.screen_height = 1080
         self.background_color = pygame.image.load('images/background.bmp')
         self.ship_speed = 4
         self.alien_speed = 3.5
