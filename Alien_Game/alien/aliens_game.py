@@ -197,7 +197,7 @@ class Invasion:
 
     def random_alien(self):
         space_x = self.settings.screen_width
-        x = random.randint(200,400)
+        x = random.randint(300,400)
         num_aliens = space_x // x
         return num_aliens
     
