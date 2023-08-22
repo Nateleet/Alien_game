@@ -14,5 +14,5 @@ class Settings():
         self.bullet_height_1 = 55
         self.bullet_color = (230, 0, 0)
         self.bullet_allowed = 1
-        self.score = '0'
+        
         
