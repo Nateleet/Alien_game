@@ -6,8 +6,8 @@ class Settings():
         self.screen_height = 1080
         self.background_color = pygame.image.load('images/background.bmp')
         self.ship_speed = 4
-        self.alien_speed = 3
-        self.fleet_drop = 45
+        self.alien_speed = 3.5
+        self.fleet_drop = 47
         self.fleet_dir = 1
         self.bullet_speed = 10
         self.bullet_width = 3
